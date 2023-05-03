@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "firebase": "^9.21.0",
+    "firebase-tools": "^11.30.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "python-club-admin-system",
+  "description": "a rough mockup of a teacher/admin system for Python Club",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glitchez-1984/python-club-admin-system.git"
+  },
+  "author": "David Safro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glitchez-1984/python-club-admin-system/issues"
+  },
+  "homepage": "https://github.com/Glitchez-1984/python-club-admin-system#readme"
+}
